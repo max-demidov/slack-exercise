@@ -106,6 +106,7 @@
           <systemPropertyVariables>
             <testng.dtd.http>true</testng.dtd.http>
           </systemPropertyVariables>
+          <disableXmlReport>true</disableXmlReport>
           <properties>
             <property>
               <name>dataproviderthreadcount</name>
